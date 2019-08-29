@@ -25,7 +25,7 @@ class App extends Component {
           </Switch>
           </div>
           <footer>
-            <NavLink activeClassName="select" to="/home">首页</NavLink>
+            <NavLink activeClassName="select" to="/home">首页改动</NavLink>
             <NavLink activeClassName="select" to="/movie">电影</NavLink>
             <NavLink activeClassName="select" to="/my">我的</NavLink>   
           </footer>       
